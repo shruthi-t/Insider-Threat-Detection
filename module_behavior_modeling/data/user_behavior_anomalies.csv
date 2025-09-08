@@ -1,0 +1,4 @@
+user_id,date,avg_sentiment,neg_msg_count,off_hours_count,total_actions,anomaly
+U101,2025-07-20,-0.7,1,1,1,1
+U101,2025-07-21,-0.6,1,1,1,1
+U104,2025-07-21,-0.4,0,1,1,-1

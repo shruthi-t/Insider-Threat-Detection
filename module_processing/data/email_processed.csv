@@ -1,0 +1,4 @@
+user_id,timestamp,message,sentiment,entities
+U101,7/20/2025 10:15,I am really frustrated with the way things are.,-0.7,[]
+U101,7/21/2025 9:30,I’m thinking about quitting. Too much stress.,-0.6,[]
+U104,7/21/2025 22:00,Can someone send me the password file?,-0.4,"[""password file""]"
